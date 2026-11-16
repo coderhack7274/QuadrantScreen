@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuadrantScreen</string>
+    <string name="box_1">Box 1</string>    <!--ye box on k lie or aaesame on sabhi k lie bss naam change -->
+    <string name="box_1_description">This is my first box</string>
+
+    <string name="box_2">Box 2</string>
+    <string name="box_2_description">This is my second box</string>
+
+    <string name="box_3">Box 3</string>
+    <string name="box_3_description">This is third box</string>
+
+    <string name="box_4">Box 4</string>
+    <string name="box_4_description">This is fourth box</string>
+</resources>
