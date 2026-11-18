@@ -110,7 +110,7 @@ fun QuadrantBox(
     }
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
-fun GreetingPreview() {
+fun QuadrantScreenPreview() {
     QuadrantScreenTheme {
         QuadrantScreen()
     }
